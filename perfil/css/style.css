@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: rgb(4, 4, 73);
+    font-family: Arial;
+}
+
+.perfil{
+    width: 400px;
+    background-color: rgb(2, 2, 43);
+    padding: 30px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 0 15px gray;
+}
+
+button{
+    width: 160px;
+    height: 40px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(4, 4, 74);
+    color: white;
+    font-size: 15px;
+}
+
+img{
+    width: 250px;
+    height: 200;
+    border-radius: 50%;
+}
+
+h1{
+    color: rgb(254, 254, 254);
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
